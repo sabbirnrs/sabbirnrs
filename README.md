@@ -7,7 +7,7 @@ My goal is to satisfy clients, try to understand what they want for their websit
 
 Skills: / JS / HTML / CSS/ BOOTSTARP/ WORDPRESS
 
-- 🔭 I’m currently working on WEB DESIGN & DEVLOPMENT 
+- 🔭 I’m currently working on WEB DESIGN & DEVELOPMENT 
 - 🌱 I’m currently learning PHP 
 - 👯 I’m looking to collaborate on GITHUB 
 - 💬 Ask me about WEB DEVLOPER 
